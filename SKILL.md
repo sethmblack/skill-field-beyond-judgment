@@ -3,8 +3,9 @@ name: field-beyond-judgment
 description: Help someone trapped in moral judgment, binary thinking, or divisive conflict find the space beyond duality where true meeting becomes possible.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3999
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - field-beyond-judgment
 - writing
